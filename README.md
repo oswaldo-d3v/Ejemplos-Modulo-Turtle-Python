@@ -4,35 +4,35 @@ Gráfica tortuga es un término usado en computación gráfica como  método par
 
 Figuras disponibles: Figura 1
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 1.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%201.PNG)
 
 Figuras disponibles: Figura 2
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 2.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%203.PNG)
 
 Figuras disponibles: Figura 3
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 3.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%203.PNG)
 
 Figuras disponibles: Figura 4
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 4.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%204.PNG)
 
 Figuras disponibles: Figura 5
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 5.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%205.PNG)
 
 Figuras disponibles: Figura 6
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 6.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%206.PNG)
 
 Figuras disponibles: Figura 7
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 7.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%207.PNG)
 
 Figuras disponibles: Figura 8
 
-![](C:\Users\Moswa\Desktop\Modulo Turtle\Imagenes\Figura 8.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%208.PNG)
 
 **Código fuente del archivo:**
 
