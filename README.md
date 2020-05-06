@@ -8,7 +8,7 @@ Figuras disponibles: Figura 1
 
 Figuras disponibles: Figura 2
 
-![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%203.PNG)
+![](https://github.com/oswaldo-d3v/Ejemplos-Modulo-Turtle-Python/blob/master/Figura%202.PNG)
 
 Figuras disponibles: Figura 3
 
