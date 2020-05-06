@@ -1,4 +1,4 @@
-# Ejemplos de programas con modulo modulo Turtle de Python 
+# Ejemplos de programas con modulo Turtle de Python 
 
 Gráfica tortuga es un término usado en computación gráfica como  método para programar gráficos vectoriales usando un cursor relativo a  unas coordenadas cartesianas. Este archivo de código cuenta con varias funciones que generan varias figuras 8 en total, al iniciar la ejecución del archivo ``.py`` se solicitara que ingrese un numero, correspondiente a la figura que desea que se dibuje.
 
